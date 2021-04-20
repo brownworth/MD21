@@ -442,7 +442,7 @@ FiscalYear,MonthYear,Town,AdmMonth,FYMonthOrder,AdmYear,PrimaryDrug,AdmCount
 2014,14-Jun,Bridgeport,6,12,2014,Other,
 2014,14-Jun,Bridgeport,6,12,2014,Other Opiates and Synthetics,16
 2014,14-Jun,Bridgeport,6,12,2014,PCP,19
-2014,13-Jul,Bridgeport,7,1,2013,Alcohl,92
+2014,13-Jul,Bridgeport,7,1,2013,Alcohol,92
 2014,13-Jul,Bridgeport,7,1,2013,Benzodiazepines,8
 2014,13-Jul,Bridgeport,7,1,2013,Cocaine,21
 2014,13-Jul,Bridgeport,7,1,2013,Crack,35
@@ -18842,7 +18842,7 @@ FiscalYear,MonthYear,Town,AdmMonth,FYMonthOrder,AdmYear,PrimaryDrug,AdmCount
 2016,16-Feb,Putnam,2,8,2016,Heroin,6
 2016,16-Feb,Putnam,2,8,2016,"Marijuana, Hashish, THC",
 2016,16-Mar,Putnam,3,9,2016,Alcohol,
-2016,16-Mar,Putnam,3,9,2016,"Hallucinogens: DMS, LSD, STP, etc",
+2016,16-Mar,Putnam,3,9,2016,"Hallucinogens: LSD, DMS, STP, etc",
 2016,16-Mar,Putnam,3,9,2016,Heroin,11
 2016,16-Mar,Putnam,3,9,2016,"Marijuana, Hashish, THC",
 2016,16-Mar,Putnam,3,9,2016,Other Opiates and Synthetics,
