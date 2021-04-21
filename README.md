@@ -3,7 +3,7 @@ These files are for the 'Messy Data' class.
 Over the course of this class, we hope to cover basics in Regular Expressions  and Python: (slices, for, and if), Pandas (Series and DataFrame operations) and NumPy (some math operations)
 
 ## Resources:
-
+[Messy Data Slides](https://docs.google.com/presentation/d/1NsazAOlENHT7V_nbvQUO8edVrgNfFNLQBxl6DUXBrDo/edit)
 ---
 
 ### Software:
